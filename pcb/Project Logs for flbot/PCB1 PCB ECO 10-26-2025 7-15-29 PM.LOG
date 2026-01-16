@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=M?-2
+Removed Pin From Net: NetName=Vin3V3 Pin=M?-4
+Added Pin To Net: NetName=Vin3V3 Pin=M?-1
+Added Pin To Net: NetName=GND Pin=M?-4
+Added Member To Class: ClassName=sodonguyenly Member=Component En? Encoder
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin4x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Room: Name=sodonguyenly

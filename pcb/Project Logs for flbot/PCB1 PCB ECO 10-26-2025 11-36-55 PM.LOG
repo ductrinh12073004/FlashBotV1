@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=A01 Pin=TB6612-A01
+Added Pin To Net: NetName=A02 Pin=TB6612-A02
+Added Pin To Net: NetName=B01 Pin=TB6612-B01
+Added Pin To Net: NetName=B02 Pin=TB6612-B02
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Room: Name=sodonguyenly

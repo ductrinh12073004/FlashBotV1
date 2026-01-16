@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PB13 Pin=pwm-7
+Removed Member From Class: ClassName=sodonguyenly Member=C?
+Added Pin To Net: NetName=PB14 Pin=pwm-7

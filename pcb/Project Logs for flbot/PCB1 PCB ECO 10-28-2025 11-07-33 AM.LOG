@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=senF-GND
+Removed Pin From Net: NetName=GND Pin=senR1-GND
+Removed Pin From Net: NetName=GND Pin=senR-GND
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-2
+Added Pin To Net: NetName=NetC2_2 Pin=C6-2
+Added Pin To Net: NetName=NetC2_2 Pin=senF-GND
+Added Pin To Net: NetName=NetC2_2 Pin=senR-GND
+Added Pin To Net: NetName=NetC2_2 Pin=senR1-GND
+Added Net: Name=NetC2_2
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component C? ECA1CHG471B
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Member To Class: ClassName=sodonguyenly Member=Component SW1 SW
+Added Room: Name=sodonguyenly

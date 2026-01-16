@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWMB Pin=STM32-18
+Added Pin To Net: NetName=PWMA Pin=STM32-18
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Room: Name=sodonguyenly

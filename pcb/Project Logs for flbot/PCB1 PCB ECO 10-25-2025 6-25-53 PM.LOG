@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PA12 Pin=senL1-6
+Removed Pin From Net: NetName=PA11 Pin=senL-6
+Removed Pin From Net: NetName=PB3 Pin=senR1-6
+Removed Pin From Net: NetName=PB4 Pin=senR-6
+Added Pin To Net: NetName=PB3 Pin=senL1-6
+Added Pin To Net: NetName=PB4 Pin=senL-6
+Added Pin To Net: NetName=PA12 Pin=senR1-6
+Added Pin To Net: NetName=PA11 Pin=senR-6
+Added Room: Name=sodonguyenly

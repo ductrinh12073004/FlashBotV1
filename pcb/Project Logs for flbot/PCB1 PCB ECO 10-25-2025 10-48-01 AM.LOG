@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C? NewDesignator=1
+Change Component Designator: OldDesignator=C? NewDesignator=2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=Net1_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=Net2_2
+Added Member To Class: ClassName=sodonguyenly Member=Component 2 Header2
+Added Room: Name=sodonguyenly

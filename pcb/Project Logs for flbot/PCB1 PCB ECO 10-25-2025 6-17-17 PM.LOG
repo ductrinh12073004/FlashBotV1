@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PA10 Pin=UART-3
+Added Pin To Net: NetName=PA9 Pin=UART-4
+Added Member To Class: ClassName=sodonguyenly Member=Component OUT+ JP2
+Added Room: Name=sodonguyenly

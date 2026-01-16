@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Net2_2 Pin=IN+-1
+Removed Pin From Net: NetName=Net2_2 Pin=IN+-2
+Added Component: Designator=switch(JP3-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=OUT+-1
+Added Pin To Net: NetName=GND Pin=OUT+-2
+Added Pin To Net: NetName=GND Pin=pwm-4
+Added Pin To Net: NetName=GND Pin=senF-1
+Added Pin To Net: NetName=GND Pin=senL1-1
+Added Pin To Net: NetName=GND Pin=senL-1
+Added Pin To Net: NetName=GND Pin=senR1-1
+Added Pin To Net: NetName=GND Pin=senR-1
+Added Pin To Net: NetName=GND Pin=stm1-18
+Added Pin To Net: NetName=Net2_2 Pin=switch-1
+Added Pin To Net: NetName=GND Pin=UART-1
+Change Net Name : Old Net Name=GND New Net Name=Vin3v3
+Added Pin To Net: NetName=NetIN+_1 Pin=IN+-1
+Added Pin To Net: NetName=NetIN+_1 Pin=IN+-2
+Added Pin To Net: NetName=NetIN+_1 Pin=switch-2
+Added Net: Name=NetIN+_1
+Added Member To Class: ClassName=sodonguyenly Member=Component switch JP3
+Added Room: Name=sodonguyenly

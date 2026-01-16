@@ -1,0 +1,104 @@
+Removed Member From Class: ClassName=sodonguyenly Member=U?
+Added Component: Designator=C?(JP8-C1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=C?(JP8-C1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 Pin=C?-18
+Added Net: Name=3.3
+Added Pin To Net: NetName=3V3 Pin=C?-20
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C?-18
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C?-19
+Added Pin To Net: NetName=GND Pin=C?-19
+Added Pin To Net: NetName=GND Pin=C?-20
+Added Net: Name=GND
+Added Pin To Net: NetName=PA0 Pin=C?-5
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=C?-6
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=C?-7
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=C?-8
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=C?-9
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=C?-10
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=C?-11
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=C?-12
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=C?-5
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=C?-6
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=C?-7
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=C?-8
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=C?-9
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=C?-10
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=C?-13
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=C?-14
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB3 Pin=C?-11
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=C?-12
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=C?-13
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=C?-14
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=C?-15
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=C?-16
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=C?-17
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB11 Pin=C?-16
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=C?-1
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=C?-2
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14  Pin=C?-3
+Added Net: Name=PB14 
+Added Pin To Net: NetName=PB15 Pin=C?-4
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=C?-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=C?-3
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=C?-4
+Added Net: Name=PC15
+Added Pin To Net: NetName=RES Pin=C?-17
+Added Net: Name=RES
+Added Pin To Net: NetName=VBT Pin=C?-1
+Added Net: Name=VBT
+Added Member To Class: ClassName=sodonguyenly Member=Component C? SENR
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP8
+Added Member To Class: ClassName=sodonguyenly Member=Component C? SENL
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP20
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP8
+Added Member To Class: ClassName=sodonguyenly Member=Component C? SENF
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP20

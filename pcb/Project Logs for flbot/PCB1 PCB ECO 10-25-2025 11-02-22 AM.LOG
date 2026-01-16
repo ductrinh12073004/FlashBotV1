@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=stm1-18
+Added Pin To Net: NetName=Vin3v3 Pin=pwm-4
+Added Pin To Net: NetName=Vin3v3 Pin=senF-1
+Added Pin To Net: NetName=Vin3v3 Pin=senL1-1
+Added Pin To Net: NetName=Vin3v3 Pin=senL-1
+Added Pin To Net: NetName=Vin3v3 Pin=senR1-1
+Added Pin To Net: NetName=Vin3v3 Pin=senR-1
+Added Pin To Net: NetName=Vin3v3 Pin=stm1-18
+Added Pin To Net: NetName=Vin3v3 Pin=UART-1
+Added Room: Name=sodonguyenly

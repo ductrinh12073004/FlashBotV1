@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetSTM32_4 Pin=SW1-1
+Added Pin To Net: NetName=NetSTM32_5 Pin=SW1-3
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component C? ECA1CHG471B
+Added Member To Class: ClassName=sodonguyenly Member=Component C? ECA1CHG471B
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Member To Class: ClassName=sodonguyenly Member=Component SW1 SW
+Added Room: Name=sodonguyenly

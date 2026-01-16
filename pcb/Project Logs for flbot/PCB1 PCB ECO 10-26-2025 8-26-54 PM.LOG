@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=AIN1 Pin=TB6612-AIN1
+Added Pin To Net: NetName=AIN2 Pin=TB6612-AIN2
+Added Pin To Net: NetName=BIN1 Pin=TB6612-BIN1
+Added Pin To Net: NetName=BIN2 Pin=TB6612-BIN2
+Added Pin To Net: NetName=PWMA Pin=TB6612-PWMA
+Added Pin To Net: NetName=PWMB Pin=TB6612-PWMB
+Added Pin To Net: NetName=Vin3V3 Pin=TB6612-STBY
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin

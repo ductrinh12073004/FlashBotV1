@@ -1,0 +1,9 @@
+Added Component: Designator=JP?(Header8)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP4
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP20
+Added Member To Class: ClassName=sodonguyenly Member=Component C? JP20
+Added Member To Class: ClassName=sodonguyenly Member=Component JP? JP8

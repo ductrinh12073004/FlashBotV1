@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=En? NewDesignator=ENL
+Change Component Designator: OldDesignator=En? NewDesignator=ENR
+Change Component Designator: OldDesignator=M? NewDesignator=HAAP
+Change Component Designator: OldDesignator=P? NewDesignator=senF
+Change Component Designator: OldDesignator=P? NewDesignator=senL
+Change Component Designator: OldDesignator=P? NewDesignator=senL1
+Change Component Designator: OldDesignator=P? NewDesignator=senR
+Change Component Designator: OldDesignator=P? NewDesignator=senR1
+Change Component Designator: OldDesignator=P? NewDesignator=UART
+Change Component Designator: OldDesignator=ST?? NewDesignator=STM32
+Change Component Designator: OldDesignator=T?? NewDesignator=TB6612
+Added Pin To Net: NetName=GND Pin=ENL-GND
+Added Pin To Net: NetName=GND Pin=ENR-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Added Pin To Net: NetName=GND Pin=TB6612-GND
+Change Net Name : Old Net Name=NetLabel113 New Net Name=senR
+Change Net Name : Old Net Name=NetLabel120 New Net Name=PWMB
+Change Net Name : Old Net Name=NetLabel121 New Net Name=PWMA
+Change Net Name : Old Net Name=NetM?_5 New Net Name=NetHAAP_5
+Added Pin To Net: NetName=senF Pin=senF-XSHUT
+Added Pin To Net: NetName=senF Pin=STM32-11
+Added Net: Name=senF
+Added Pin To Net: NetName=senL1 Pin=senL1-XSHUT
+Added Pin To Net: NetName=senL1 Pin=STM32-10
+Added Net: Name=senL1
+Added Pin To Net: NetName=senL Pin=senL-XSHUT
+Added Pin To Net: NetName=senL Pin=STM32-9
+Added Net: Name=senL
+Added Pin To Net: NetName=senR1 Pin=senR1-XSHUT
+Added Pin To Net: NetName=senR1 Pin=STM32-12
+Added Net: Name=senR1
+Added Member To Class: ClassName=sodonguyenly Member=Component ENL Encoder
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Member To Class: ClassName=sodonguyenly Member=Component senF Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component senL1 Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component senR1 Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component senR Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component UART Pin4x
+Added Room: Name=sodonguyenly

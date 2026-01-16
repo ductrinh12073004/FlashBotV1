@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=C? NewDesignator=motor
+Change Component Designator: OldDesignator=C? NewDesignator=pwm
+Change Component Designator: OldDesignator=C? NewDesignator=senF
+Change Component Designator: OldDesignator=C? NewDesignator=senL
+Change Component Designator: OldDesignator=C? NewDesignator=senR
+Change Component Designator: OldDesignator=C? NewDesignator=stm1
+Change Component Designator: OldDesignator=C? NewDesignator=stm2
+Change Component Designator: OldDesignator=C? NewDesignator=UART
+Change Net Name : Old Net Name=NetC?_1 New Net Name=Netmotor_1
+Change Net Name : Old Net Name=NetC?_5 New Net Name=Netmotor_5
+Change Net Name : Old Net Name=NetC?_8 New Net Name=Netmotor_8
+Added Pin To Net: NetName=Netmotor_2 Pin=motor-2
+Added Net: Name=Netmotor_2
+Added Pin To Net: NetName=Netmotor_3 Pin=motor-3
+Added Net: Name=Netmotor_3
+Added Pin To Net: NetName=Netmotor_4 Pin=motor-4
+Added Net: Name=Netmotor_4
+Added Pin To Net: NetName=Netmotor_7 Pin=motor-7
+Added Net: Name=Netmotor_7
+Added Member To Class: ClassName=sodonguyenly Member=Component motor JP8
+Added Member To Class: ClassName=sodonguyenly Member=Component pwm JP8
+Added Member To Class: ClassName=sodonguyenly Member=Component senF JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component senL JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component senR JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component stm1 JP20
+Added Member To Class: ClassName=sodonguyenly Member=Component UART JP4

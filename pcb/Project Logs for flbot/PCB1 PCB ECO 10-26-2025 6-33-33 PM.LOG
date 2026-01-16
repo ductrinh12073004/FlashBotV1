@@ -1,0 +1,14 @@
+Added Component: Designator=P?(Pin4x)
+Added Component: Designator=Pin?(Pin)
+Added Component: Designator=Pin?(Pin)
+Added Component: Designator=Sw?(Switch)
+Added Member To Class: ClassName=sodonguyenly Member=Component En? Encoder
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component P? Pin6x
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Member To Class: ClassName=sodonguyenly Member=Component Pin? Pin
+Added Member To Class: ClassName=sodonguyenly Member=Component Sw? Switch
+Added Room: Name=sodonguyenly

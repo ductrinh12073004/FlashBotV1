@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PB13 Pin=pwm-1
+Removed Pin From Net: NetName=PB14 Pin=pwm-7
+Added Pin To Net: NetName=PB14 Pin=pwm-1
+Added Pin To Net: NetName=PB13 Pin=pwm-7
+Added Room: Name=sodonguyenly

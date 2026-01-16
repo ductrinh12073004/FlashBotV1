@@ -1,0 +1,13 @@
+Added Component: Designator=HD?(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CON8)
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sodonguyenly Member=Component HD? Header 2
+Added Member To Class: ClassName=sodonguyenly Member=Component JP? JP6
+Added Member To Class: ClassName=sodonguyenly Member=Component JP? JP8
+Added Member To Class: ClassName=sodonguyenly Member=Component SW? SW
+Added Room: Name=sodonguyenly
