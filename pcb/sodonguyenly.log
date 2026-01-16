@@ -1,0 +1,145 @@
+P-CAD Schematic ASCII File Export Log :
+      Information : Start export of symbol definitions for parts
+      Warning :     Symbol name [STM32F1], mode [Normal], part [1] changed to [STM32F1_1_N]
+      Warning :     Rectangle [300mil : -1300mil]-[2400mil : -800mil] exported as lines.
+      Warning :     Symbol name [TB6612], mode [Normal], part [1] changed to [TB6612_1_N]
+      Warning :     Rectangle [-500mil : -100mil]-[400mil : 400mil] exported as lines.
+      Warning :     Symbol name [MP1584EN], mode [Normal], part [1] changed to [MP1584EN_1_N]
+      Warning :     Rectangle [-300mil : -300mil]-[600mil : 400mil] exported as lines.
+      Warning :     Symbol name [Encoder], mode [Normal], part [1] changed to [Encoder_1_N]
+      Warning :     Rectangle [-800mil : -500mil]-[-600mil : 200mil] exported as lines.
+      Warning :     Symbol name [Pin6x], mode [Normal], part [1] changed to [Pin6x_1_N]
+      Warning :     Rectangle [-400mil : -300mil]-[-300mil : 400mil] exported as lines.
+      Warning :     Symbol name [Pin4x], mode [Normal], part [1] changed to [Pin4x_1_N]
+      Warning :     Rectangle [-400mil : -100mil]-[-300mil : 400mil] exported as lines.
+      Warning :     Symbol name [Pin], mode [Normal], part [1] changed to [Pin_1_N]
+      Warning :     Rectangle [-600mil : -100mil]-[-300mil : 200mil] exported as lines.
+      Warning :     Symbol name [Switch], mode [Normal], part [1] changed to [Switch_1_N]
+      Warning :     Rectangle [0mil : -200mil]-[300mil : 200mil] exported as lines.
+      Warning :     Symbol name [ECA1CHG471B], mode [Normal], part [1] changed to [ECA1CHG471B_1_N]
+      Warning :     Rectangle [-46.181mil : -60.315mil]-[-11.181mil : -55.315mil] exported as lines.
+      Warning :     Rectangle [-31.181mil : -75.315mil]-[-26.181mil : -40.315mil] exported as lines.
+      Warning :     Symbol name [SR211C104KARTR1], mode [Normal], part [1] changed to [SR211C104KARTR1_1_N]
+      Warning :     Rectangle [0mil : -75.073mil]-[25mil : 75mil] exported as lines.
+      Warning :     Rectangle [75.073mil : -75.073mil]-[100mil : 75mil] exported as lines.
+      Warning :     Symbol name [SW4], mode [Normal], part [1] changed to [SW4_1_N]
+      Warning :     Elliptical arc at position [130mil : 50mil] converted to circular arc
+      Warning :     Rectangle [-150mil : 100mil]-[150mil : 120mil] exported as lines.
+      Warning :     Rectangle [-60mil : 120mil]-[60mil : 160mil] exported as lines.
+      Warning :     Elliptical arc at position [-130mil : 50mil] converted to circular arc
+      Information : End export of symbol definitions for part
+      Information : Start exporting the symbol definitions for power ports
+      Warning :     End exporting the symbol defintions for power ports
+      Information : Start exporting component definitions
+      Warning :     Component [STM32] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (STM32F1).
+      Warning :        Finish exporting component.
+      Warning :     Component [TB6612] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (TB6612).
+      Warning :        Finish exporting component.
+      Warning :     Component [HAAP] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (MP1584EN).
+      Warning :        Finish exporting component.
+      Warning :     Component [ENL] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (Encoder).
+      Warning :     Component [Encoder] changed to [ENCODER]
+      Warning :        Finish exporting component.
+      Warning :     Component [ENR] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [senR1] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (Pin6x).
+      Warning :     Component [Pin6x] changed to [PIN6X]
+      Warning :        Finish exporting component.
+      Warning :     Component [senF] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [senL1] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [senR] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [senL] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [UART] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (Pin4x).
+      Warning :     Component [Pin4x] changed to [PIN4X]
+      Warning :        Finish exporting component.
+      Warning :     Component [Pin?] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (Pin).
+      Warning :     Component [Pin] changed to [PIN]
+      Warning :        Finish exporting component.
+      Warning :     Component [Pin?] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [Sw?] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (Switch).
+      Warning :     Component [Switch] changed to [SWITCH]
+      Warning :        Finish exporting component.
+      Warning :     Component [C?] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (ECA1CHG471B).
+      Warning :        Finish exporting component.
+      Warning :     Component [C?] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [CML] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (SR211C104KARTR1).
+      Warning :        Finish exporting component.
+      Warning :     Component [CMR] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C2] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C4] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C6] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C8] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C10] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [C11] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [SW1] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :        Exporting component (SW4).
+      Warning :        Finish exporting component.
+      Warning :     Component [CER] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [CEL] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Warning :     Component [SW1] in sheet [C:\Users\ADMIN\AppData\Local\Temp\Qjz74C3.tmp] doesn't have a library reference
+      Information : End exporting component definitions
+      Information : Start exporting component definitions for power ports
+      Warning :     End exporting component definitions for powerports
+      Information : Start export of netlist
+      Information : Start export of component instances
+      Information : End export of component instances
+      Information : Start export of nets
+      Information : End export of nets
+      Information : End export of netlist
+      Information : Start exporting the objects for sheet [sodonguyenly]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [1100mil : 3100mil] as component with designator [GND]
+      Warning :     Exporting powerport at [2100mil : 2900mil] as component with designator [GND]
+      Warning :     Exporting powerport at [1400mil : 4300mil] as component with designator [GND]
+      Warning :     Exporting powerport at [4400mil : 3800mil] as component with designator [GND]
+      Warning :     Exporting powerport at [8700mil : 3800mil] as component with designator [GND]
+      Warning :     Exporting powerport at [7100mil : 6700mil] as component with designator [GND]
+      Warning :     Exporting powerport at [3600mil : 2900mil] as component with designator [GND]
+      Warning :     Exporting powerport at [2000mil : 3100mil] as component with designator [GND]
+      Warning :     Exporting powerport at [8900mil : 6800mil] as component with designator [GND]
+      Warning :     Exporting powerport at [7000mil : 5500mil] as component with designator [GND]
+      Warning :     Exporting powerport at [5500mil : 5600mil] as component with designator [GND]
+      Warning :     Exporting powerport at [2600mil : 6300mil] as component with designator [GND]
+      Information : End exporting the objects for sheet [sodonguyenly]
+EndLog
